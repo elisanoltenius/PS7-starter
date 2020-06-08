@@ -9,9 +9,7 @@ output: pdf_document
 
 A linear model can be characterised by the following structural normal equation:
 
-\begin{equation} 
-  X^TXy = X^Ty \beta
-\end{equation} 
+$X^TXy = X^Ty \beta$
 
 where $X is the data or design matrix, $y$ the dependent variable and $beta$ the coefficient vector.
 
