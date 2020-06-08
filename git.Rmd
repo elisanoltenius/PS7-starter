@@ -1,8 +1,14 @@
 ---
 title: "Problem Set 7 - Git Questions"
-author: "Your Name"
-date: "02 June 2020"
+author: "Elisa Noltenius"
+date: "08 June 2020"
 output: pdf_document
 ---
 
-Text answers suffice!
+1. Philipp hat pem_cr erstellt. Außerdem hat er nach dem Beitrag von Julia ihren Namen zu den Autoren hinzugefüht, später hat er aber  drei mal einen Schreibfehler in seinem eigenen Nachnamen verbessert (Kopper fälschlicherweise mit drei p geschrieben, also "Koppper"). Julia  hat summary.pem_cr  und print.pem_cr hinzugefügt. Philipp hat adrauf hin was von ihr umgeschrieben indem er Leerzeilen entfernt hat
+
+1. Julia hat mehr Code geschrieben
+
+1. Philipp hat öfteres gepusht
+
+1. Ja, sie haben unterschiedliche Styles. Philipp pusht regelmäßiger nach Veränderungen und dokumentiert somit besser den Verlauf. Julia macht größere Veränderungen was somit den Verlauf überschaubarer und überscihtlicher macht. Julia hat Leerzeilen zwischen jede Zeile ihres Textes getan (auch so interpretierbar dass sie weniger Wert auf die Darstellung legt), Philipp widerum scheint eine kompaktere Darstellunhg zu präferieren und hat die Leerzeilen entfernt. 
